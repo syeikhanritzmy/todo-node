@@ -53,7 +53,7 @@ const writeData = async (data) => {
   }
 };
 
-// writeData({ name: 'Naruto' });
+// writeData({ name: 'Naruto'' });
 // const readAll = await readAllFile(todo);
 // console.log(readAll);
 // deleteOneFile('Naruto');
